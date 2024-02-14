@@ -2,7 +2,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.mafinpastry2;
+package com.mycompany.mafinpastry2.logic;
+
+import com.mycompany.mafinpastry2.gui.Main;
 
 /**
  *
